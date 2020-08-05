@@ -1,5 +1,5 @@
 # website
 
-My first GitHub Pages respositiory.
+My first GitHub Pages repository.
 
 
